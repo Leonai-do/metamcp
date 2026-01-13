@@ -44,3 +44,10 @@ yarn-error.log*
 # Docker Files
 docker-compose.override.yml
 compose.override.yml
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+dist/
+build/
